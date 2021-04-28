@@ -1,0 +1,255 @@
+@media screen and (max-width: 768px){
+	.container, #community-area{
+		width: 100%;
+	}
+	.search-area{
+		display: none;
+	}
+	.logo{
+		width: 25%;
+	}
+	.menu{
+		width: 75%;
+	}
+
+	#slider-area .carousel-caption{
+		bottom:45px;
+		left: 60px;		 
+	}
+	#slider-area .carousel-indicators {
+    justify-content: left;
+    bottom: 10px;
+    left: -30px;
+	}
+
+	.services-one{
+		width: 100%;
+	}
+
+	.service-two{
+		width: 100%;
+		float: none;
+		margin-top:0;
+	}
+
+	#consultants-area .modal-dialog{
+	max-width: 400px;
+	margin-left: 150px;	
+	}
+	.single-content::after{
+		left: 78px;
+	} 
+
+	.file-content-area{
+		width: 50%;
+	}
+	.community-images{
+		width: 63%;
+	}
+	.community-right{
+		width: 100%;
+	}
+
+	.single-content{
+		padding: 6px;
+	}
+	.single-content::after{
+		top:104px;
+	}
+
+	.solutions-one{
+		margin-top: 80px;
+		width: 36.33%
+	}
+	.solutions-one button{
+		padding: 6px 15px;	
+
+	}
+	.solutions-two{
+		width: 63.66%;
+	}
+
+	.fin-one{
+		width: 37.33%;
+		margin-top: 0;
+		margin: 0;
+	}
+	.solutions-images{
+		margin-top: 0;
+	}
+
+.fin-two{
+		width: 62.66%%;
+	}
+	.fin-one h2{
+		font-size: 20px;
+	}
+	.fin-one button{
+	padding: 6px 15px;	
+	}
+
+	.solutions-one h2{
+		font-size: 20px;
+	}
+	#support-area{
+		margin: 0;
+	}
+
+}
+
+@media screen and (max-width: 767px){
+	.menu{
+		display: none;
+		width: 100%
+	}
+	.menu ul li, .mobile-nav, .menu ul li a{
+		display: block;
+	}
+	.menu ul li a{
+		padding: 10px;
+	}
+	.logo{
+		width: 32%;
+	}
+	
+}
+
+@media screen and (max-width: 576px){
+	.logo{
+		width: 80%;
+	}
+	.header-area{
+		margin: auto;
+	}
+	.menu{
+		width: 100%;
+	}
+	.search-area{
+		width: 100%;
+	}
+
+	/*#slider-area .carousel-indicators {
+    justify-content: left;
+    bottom: 10px;
+    left: -61px;
+	}
+*/
+	.services-one{
+		width: 100%;
+	}
+
+	.services-content{
+		width: 100%;
+	}
+
+	.service-two{
+		width: 100%;
+		float:none;
+	}
+	.banner{
+		width:100%; 
+	}
+	.single-content::after{
+		left: 235px;
+	}
+	.single-line{
+		width: 100%; 
+	}
+	
+	.solutions-one{
+		width: 100%;
+		padding: 15px;
+		margin: 0;
+		margin-top: 0; 
+	}
+	.solutions-two{
+		width: 100%;
+		padding: 15px;
+	}
+	.solutions-img{
+		margin-top: 0;
+	}
+	.solutions-images{
+		margin-top: 0;
+	}
+	.about-client{
+		width: 100%;	
+	}
+	.fin-two{
+		width: 100%;
+		padding: 15px;
+
+	}
+	.fin-one{
+		width: 100%;
+		padding: 15px;
+		margin-top: 0;
+		margin:0;
+	}
+	#client-area, .file-area{
+		margin-top:0;
+		}
+		.file-area{
+			margin: 0;
+		}
+	.file-content-area{
+		width: 100%;
+	}
+	.file-content-area{
+		width: 100%;
+	}
+	.all-contact{
+		padding: 15px;
+	}
+	.contact-left, .contact-btn{
+		width: 100%;
+	}
+
+	.community-right{
+		width: 100%;
+		padding: 15px;
+	}
+	#support-area{
+		margin: 0;
+	}
+	#community-area{
+		margin:10px 0;
+	}
+	.single-suppor-area{
+		width: 100%;
+	}
+	.subs-left, .subs-right{
+		width: 100%;
+		float: none;
+			}
+	.subs-right{
+		text-align: center;
+	}
+	.subs-right button{
+		    padding: 10px 48px;
+	}
+	#footer-area{
+		margin-top: 0;
+	}
+	.footer-content{
+		padding: 15px;
+	}
+
+	.single-area{
+		width: 100%;
+	}
+	.single-two{
+		width: 100%;
+	}
+
+	.links{
+		width: 100%;
+	}
+}
+
+
+
+
+
+
+
